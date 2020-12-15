@@ -2,6 +2,6 @@
 def postion_taken?
   board = [" "," "," "," "," "," "," "," "," "]
   index = 0
-end
+
 postion_taken?(board, index)
 end
