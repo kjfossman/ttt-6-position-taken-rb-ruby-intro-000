@@ -5,4 +5,4 @@ def postion_taken?
 
 end
 
-  postion_taken?(board, index)
+postion_taken?(board, index)
